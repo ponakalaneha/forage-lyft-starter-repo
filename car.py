@@ -1,6 +1,4 @@
-from abc import ABC, abstractmethod
-from battery.Battery import Battery
-from engine.Engine import Engine
+from abc import ABC
 
 
 class Car(ABC):
